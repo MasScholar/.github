@@ -15,7 +15,7 @@
 
 ## 📌 项目简介
 
-｜🇨🇳 [点击查看中文简介](./README.zh.md)｜🇺🇸 [View English Description](./README.en.md)｜
+｜🇨🇳 [点击查看中文简介](./README.md)｜🇺🇸 [View English Description](./README.en.md)｜
 
 
 **MasScholar** 是一款专为 **教学实验室、科研团队与跨学科项目** 打造的统计分析与协作平台。  
