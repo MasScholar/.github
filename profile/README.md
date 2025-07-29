@@ -1,12 +1,32 @@
-## Hi there 👋
+## MasScholar - Modern AI-Powered Statistical Toolkit
 
-<!--
+📌 项目简介
+MasScholar 是一款专为教学实验室、科研团队与跨学科项目打造的统计分析与协作平台，集成桌面级应用体验与云端协作能力，目标是成为 SPSS® 和 SAS® 在教学与探索性数据分析领域的可交互替代品。
 
-**Here are some ideas to get you started:**
+✨ 特性亮点
+🖥️ 桌面级交互体验
+基于 Electron + Svelte + Rust，提供媲美原生应用的性能与沉浸感。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+☁️ 云端协作支持
+多人实时协作、版本追踪、权限管理一应俱全，适配科研项目与教学场景的全流程。
+
+🤖 AI 对话助理
+内置智能助手，支持：
+
+* 自动解释统计图结果
+
+* 提供变量选择与数据清洗建议
+
+* 辅助完成假设检验与模型解读
+
+📊 零门槛统计流程引导
+内置“描述统计 → 推论统计 → 回归建模”三步流程，覆盖教学常用统计任务，无需写代码也能完成完整分析。
+
+🧩 Block Playground 模式
+融合 Swift Playground 与 Notion 风格的块级编辑器，用户可以：
+
+* 拖放构建统计任务流程
+
+* 可视化数据与模型结构
+
+* 随时插入数据表、图表、代码、解释文本块
