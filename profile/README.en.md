@@ -59,7 +59,7 @@ It combines a native-level desktop experience with real-time cloud collaboration
 - [ ] Launch public beta (macOS / Windows)
 - [ ] Release teaching templates for instructors
 - [ ] Support exporting reports (HTML / PDF / Word)
-- [ ] Plugin system (e.g., advanced visualizations, PK/PD models)
+- [ ] Plugin system (e.g., advanced visualizations)
 
 ---
 
