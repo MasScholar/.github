@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-electron-lightgrey?logo=electron" alt="Platform: Electron" />
-  <img src="https://img.shields.io/badge/frontend-svelte-orange?logo=svelte" alt="Frontend: Svelte" />
+  <img src="https://img.shields.io/badge/frontend-vue-green?logo=vue" alt="Frontend: Vue" />
   <img src="https://img.shields.io/badge/backend-rust-blue?logo=rust" alt="Backend: Rust" />
   <img src="https://img.shields.io/badge/AI-integrated-purple?logo=OpenAI" alt="AI Assistant" />
 </p>
@@ -25,7 +25,7 @@ It combines a native-level desktop experience with real-time cloud collaboration
 ## ✨ Key Features
 
 ### 🖥️ Native-like Desktop Experience
-- Built with **Electron + Svelte + Rust**
+- Built with **Electron + Vue + Rust**
 - Delivers a smooth, high-performance user interface
 
 ### ☁️ Cloud Collaboration
