@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-electron-lightgrey?logo=electron" alt="Platform: Electron" />
-  <img src="https://img.shields.io/badge/frontend-vue-green?logo=vue" alt="Frontend: Vue" />
+  <img src="https://img.shields.io/badge/frontend-vue-green?logo=vuedotjs" alt="Frontend: Vue" />
   <img src="https://img.shields.io/badge/backend-rust-blue?logo=rust" alt="Backend: Rust" />
   <img src="https://img.shields.io/badge/AI-integrated-purple?logo=OpenAI" alt="AI Assistant" />
 </p>
