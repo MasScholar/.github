@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/frontend-vue-green?logo=vuedotjs" alt="Frontend: Vue" />
   <img src="https://img.shields.io/badge/backend-rust-blue?logo=rust" alt="Backend: Rust" />
   <img src="https://img.shields.io/badge/AI-integrated-purple?logo=OpenAI" alt="AI Assistant" />
+  <img src="https://img.shields.io/badge/License-AGPL_v3%2B-blue" alt="AGPL v3" />
 </p>
 
 ---
