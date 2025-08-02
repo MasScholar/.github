@@ -73,6 +73,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/your-org/MasScholar?style=social" />
-  <img src="https://img.shields.io/github/forks/your-org/MasScholar?style=social" />
+  <img src="https://img.shields.io/github/stars/MasScholar/MasScholar?style=social" />
+  <img src="https://img.shields.io/github/forks/MasScholar/MasScholar?style=social" />
 </p>
